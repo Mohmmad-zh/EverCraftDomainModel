@@ -1,0 +1,10 @@
+# Testing and code coverage
+unittest-xml-reporting==3.0.4
+coverage==7.2.4
+
+# Code quality
+flake8==6.0.0
+black==23.3.0
+
+# Additional useful tools
+pytest==7.4.0
